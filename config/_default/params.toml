@@ -26,7 +26,7 @@ defaultFeaturedImage = "IMAGE.jpg" # used as default for featured images in all 
 # smartTOCHideUnfocusedChildren = true
 
 [header]
-  layout = "fixed-fill-blur" # valid options: basic, fixed, fixed-fill, fixed-fill-blur
+  layout = "basic" # valid options: basic, fixed, fixed-fill, fixed-fill-blur
 
 [footer]
   showMenu = true
@@ -36,7 +36,7 @@ defaultFeaturedImage = "IMAGE.jpg" # used as default for featured images in all 
   showScrollToTop = true
 
 [homepage]
-  layout = "hero" # valid options: page, profile, hero, card, background, custom
+  layout = "background" # valid options: page, profile, hero, card, background, custom
   homepageImage = "background.jpg" # used in: hero, and card
   showRecent = true
   showRecentItems = 6
