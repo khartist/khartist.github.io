@@ -18,8 +18,8 @@ enableCodeCopy = true
 disableImageOptimization = false
 disableTextInHeader = false
 
-defaultBackgroundImage = "background.jpg" # used as default for background images 
-defaultFeaturedImage = "IMAGE.jpg" # used as default for featured images in all articles
+defaultBackgroundImage = "img/background.jpg" # used as default for background images 
+defaultFeaturedImage = "img/defaultFeatured.jpg" # used as default for featured images in all articles
 
 # highlightCurrentMenuArea = true
 # smartTOC = true
@@ -37,7 +37,7 @@ defaultFeaturedImage = "IMAGE.jpg" # used as default for featured images in all 
 
 [homepage]
   layout = "background" # valid options: page, profile, hero, card, background, custom
-  homepageImage = "background.jpg" # used in: hero, and card
+  homepageImage = "img/background.jpg" # used in: hero, and card
   showRecent = true
   showRecentItems = 6
   showMoreLink = true

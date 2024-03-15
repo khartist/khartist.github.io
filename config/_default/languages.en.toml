@@ -8,14 +8,14 @@ title = "Khartist29"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
-  #logo = "img/logo.png"
-  #secondaryLogo = "img/secondary-logo.png"
+  logo = "img/logo.png"
+  #secondaryLogo = "img/logo.png"
   #description = "My awesome website"
   copyright = "Copy, _right?_ :thinking_face:"
 
  [author]
    name = "Khartist29"
-   image = "img/blowfish_logo.png"
+   image = "img/avatar.png"
    headline = "Welcome to my personal website!"
    bio = "Tackling skill issues."
    links = [
