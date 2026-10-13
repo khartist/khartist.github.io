@@ -1,11 +1,14 @@
 ---
-name: "enscribe"
+name: "khartist29"
 pronouns: "he/him"
-avatar: "https://avatars.githubusercontent.com/u/71956291?v=4"
-bio: "d(-_-)b"
-mail: "jason@enscribe.dev"
+avatar: "https://avatars.githubusercontent.com/u/92681504?v=4"
+bio: "📍 Saigon, Vietnam 🇻🇳
+🤖 AI Engineer — multi-agent systems, backend & cloud
+🥊 Muay Thai • 🏋️‍♂️ Lifting • 🏃‍♂️ Running • 📷 Photography
+✍️ Documenting builds, system architecture, and what I break along the way."
+mail: "dev.khanh.tran@gmail.com"
 socials:
-  website: "https://enscribe.dev"
-  twitter: "https://twitter.com/enscrbe"
-  github: "https://github.com/jktrn"
+  website: "https://khartist.github.io"
+  twitter: "https://x.com/khartist29"
+  github: "https://github.com/khartist"
 ---
